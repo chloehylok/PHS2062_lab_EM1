@@ -1,0 +1,8 @@
+angle [deg],u angle [deg],Vp2p initial [mV],uVp2p initial [mV],Vp2p with polarizer [mV],Vp2p with polarizer [mV]
+90,2,153,2,6,2
+75,2,153,2,10,2
+60,2,153,2,12,2
+45,2,153,2,30,2
+30,2,153,2,88,2
+15,2,153,2,117,2
+0,2,153,2,137,2
